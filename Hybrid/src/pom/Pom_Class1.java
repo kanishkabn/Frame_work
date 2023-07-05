@@ -14,7 +14,7 @@ private WebElement pwd;
 private WebElement log;
 public Pom_Class1(WebDriver driver) {
 	PageFactory.initElements(driver, this);
-}//abcd
+}//abcdefg
 public void un_fild()
 {
 	un.sendKeys("abcdefgh");
